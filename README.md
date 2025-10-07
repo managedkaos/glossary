@@ -17,6 +17,16 @@ A collection of technical terms and acronyms along with their definitions, uses,
 
 ## E
 
+**Edge Core Switches (ECS)** - Primary edge routing devices
+
+---
+
+**Edge Switches (ESW/MTSW)** - Local switching infrastructure
+
+---
+
+**EdgeUno Routers (CRA)** - Partner edge devices in LATAM
+
 ## F
 
 ## G
@@ -32,7 +42,12 @@ A collection of technical terms and acronyms along with their definitions, uses,
 ## L
 
 ## M
-- **Middleware** - Software that acts as a bridge between an operating system or database and applications.
+
+**Middleware** - Software that acts as a bridge between an operating system or database and applications.
+
+---
+
+**Mid-Tier Core Switches (MTCS)** - Regional aggregation devices
 
 ## N
 
