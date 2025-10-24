@@ -61,6 +61,8 @@ A collection of technical terms and acronyms along with their definitions, uses,
 
 ## S
 
+**SGAI** (Server Guided Ad Insertion) - A hybrid video advertising technology. It combines aspects of both client-side and server-side ad insertion to deliver more personalized ads with minimal disruption to the viewing experience.  Because the ad decision is made in real-time based on viewer data, the ads are more relevant and engaging; By having the client's video player handle the ad insertion, the switch between content and ads is smoother, with less buffering or latency; and shifting much of the ad insertion work to the client side frees up server resources and reduces infrastructure costs, making it easier to handle large-scale audiences.
+
 ## T
 
 ## U
